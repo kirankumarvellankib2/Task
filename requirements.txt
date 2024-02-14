@@ -1,0 +1,4 @@
+google
+google-cloud-storage
+boto3   
+pytest   
