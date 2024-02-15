@@ -4,7 +4,7 @@ import pytest
 from unittest.mock import MagicMock
 from file_uploader.s3_uploader import S3Uploader
 from file_uploader.gcs_uploader import GCSUploader
-
+from main_program import process_directory
 
 
 @pytest.fixture
